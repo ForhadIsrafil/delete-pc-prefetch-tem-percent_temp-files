@@ -4,7 +4,7 @@ import shutil
 import time
 
 temp = 'C:/Windows/Temp/*'
-percent_temp = 'C:/Users/your pc name here/AppData/Local/Temp/*'
+percent_temp = 'C:/Users/if/AppData/Local/Temp/*'
 prefetch = 'C:/Windows/Prefetch/*'
 
 all_paths = [temp, percent_temp, prefetch]
